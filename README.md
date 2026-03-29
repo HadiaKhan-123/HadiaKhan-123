@@ -1,4 +1,4 @@
-# Hi, I'm Hadia Khan! 👋
+# Hi! 👋
 
 **Aspiring Data Analyst | Excel | SQL | Python | Power BI**
 
