@@ -48,7 +48,7 @@ Meta overhauled their API in 2024. Every tutorial, blog post, and YouTube video 
 
 ## 📬 Reach Me
 
-- 🌐 Portfolio: [hadia-khan-portfolio.netlify.app](https://hadiakhanautomationporfolio.netlify.app/)
+- 🌐 Portfolio: [hadia-khan-portfolio.netlify.app](https://hadia-automationportfolio.netlify.app/)
 - 💼 LinkedIn: [Hadia Khan](https://www.linkedin.com/in/hadia-khan-82ba75189/)
 - 📧 Email: khanhadia641@gmail.com
 
